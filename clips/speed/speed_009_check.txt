@@ -1,0 +1,26 @@
+EP.2 | แข่งจบขอเป็นศิษย์ / เพิ่งรู้ว่าแข่งเถื่อนมันผิด
+segments(src): [(212.5, 322.0), (356.0, 369.0)]
+
+เวลา(คลิป) | ผู้พูด | ต้นฉบับ | คำแปลไทย | หมายเหตุ
+  0.46s | Speed | Not bad! Weasel News! | ไม่เลวเลย Weasel News! | 
+  7.36s | Speed | Not bad, bro! | ไม่เลวเลยเพื่อน! | 
+ 10.82s | Speed | Don't spam L like I got fifth place! Oh my days! | อย่ามาพิมพ์ L เหมือนกูได้ที่ 5 ดิ! | 
+ 17.70s | Speed | It's like, shut up! | หุบปากไปเลย! | 
+ 22.74s | ในเกม | That was great. Thanks, man. | ขับดีมาก ขอบใจนะ | Jason
+ 31.06s | ในเกม | Like dude, you could really drive, bro. | นายขับโคตรเก่งเลยนะ | NPC นักแข่ง
+ 35.34s | ในเกม | What's your name? / Jason. | ชื่อไรเหรอ / Jason | NPC / Jason
+ 38.72s | ในเกม | You race here a lot? / What's a lot? | มาแข่งแถวนี้บ่อยปะ / บ่อยแค่ไหนล่ะ | NPC / Jason
+ 42.80s | ในเกม | I haven't seen you around before. | ไม่เคยเห็นหน้านายมาก่อนเลย | NPC
+ 48.64s | ในเกม | I mean cuz of your driving. | ก็ฝีมือขับนายไง | NPC
+ 56.88s | ในเกม | Looks like you're here to win money, bro. | ดูทรงนายมาล่าเงินรางวัลสินะ | NPC
+ 61.54s | ในเกม | No street racing aside from videos on Snapmatic, going in blind. | ไม่เคยแข่งจริงจัง ดูแต่คลิปใน Snapmatic | NPC
+ 69.84s | ในเกม | Hey, you should teach me. | เฮ้ นายช่วยสอนฉันขับหน่อยสิ | NPC
+ 72.88s | ในเกม | What? I'm not even—just ask one of them. | ห๊ะ ฉันเนี่ยนะ ไปถามพวกนั้นสิ | Jason
+ 79.78s | ในเกม | Nobody's gonna teach me. I grew up with them, they mean. | ไม่มีใครสอนหรอก พวกนั้นแม่งใจร้าย | NPC
+ 89.68s | Speed | He wants me to teach him! Winning races is the only way. | หมอนี่จะให้กูสอนขับ ต้องชนะเท่านั้น | Speed + NPC
+ 97.28s | ในเกม | I'd probably rip on you too, for you I'll make an exception. | เอาจริงฉันก็คงด่า แต่สำหรับนายยกเว้นให้ | Jason
+102.50s | ในเกม | I'll give you my number and hit you up sometime. | เดี๋ยวให้เบอร์ไว้ ทักมาแล้วกัน | Jason
+104.34s | Speed | Chat, do I teach him how to drive? Yes sir! | แชท กูต้องสอนมันขับรถเหรอ จัดไป! | 
+109.94s | Speed | Chat, that was fun, bro! | แชท โคตรสนุกเลยว่ะ! | 
+114.02s | Speed | Street races are fun | แข่งรถเถื่อนโคตรมันส์ | 
+117.93s | Speed | But they are illegal IRL | แต่ในชีวิตจริง มันผิดกฎหมายนะ | 

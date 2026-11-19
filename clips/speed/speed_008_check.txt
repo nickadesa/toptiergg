@@ -1,0 +1,21 @@
+EP.1 | แข่งรถเถื่อนครั้งแรก / โดนชนท้ายจนเสียอันดับ
+segments(src): [(40.5, 51.0), (69.5, 97.0), (108.5, 134.0), (153.0, 199.0)]
+
+เวลา(คลิป) | ผู้พูด | ต้นฉบับ | คำแปลไทย | หมายเหตุ
+  0.40s | Speed | Chat, y'all ready to race? Let's go. | แชท พร้อมแข่งยัง ไปเลย! | 
+  7.40s | ในเกม | We got a couple rides you can borrow. | มีรถให้ยืมอยู่ หลายคันเลย | NPC สนามแข่ง
+ 11.30s | Speed | First race! Come on, let me in! | แข่งแรกแล้ว มาดิ ขอเข้าหน่อย! | 
+ 18.26s | Speed | Got that flip-flop on the gas, white boy. | เหยียบแตะซิ่งเลยนะไอ้หนุ่ม | 
+ 25.14s | Speed | Turn that bullshit off. Let's go! | ปิดเพลงแล้วลุย ไปเลย! | 
+ 35.20s | Speed | Come on, baby! | มาดิเพื่อน! | 
+ 38.50s | Speed | How much shit you eating back there? Still hungry? | กินไรอยู่ข้างหลัง ยังหิวอีกเหรอ | [?] อาจเป็นเสียง NPC/แชท
+ 55.30s | Speed | I'm locked! | กูล็อกเป้าแล้ว! | 
+ 57.20s | Speed | Turn! I'm locked! | เลี้ยว! กูล็อกเป้าแล้ว! | 
+ 64.21s | Speed | Shut the hell up! | หุบปากไปเลย! | 
+ 70.17s | Speed | Bro, this car too slow! | รถคันนี้โคตรอืดเลย! | 
+ 78.87s | Speed | No way! | ไม่จริงน่า! | 
+ 81.41s | Speed | Are we serious?! | เอาจริงดิ?! | 
+ 96.88s | Speed | What?! I got spun out? No way! | ห๊ะ! โดนปาดตกทาง ไม่จริงน่า! | 
+100.88s | Speed | Is this really how I lose a race?! | นี่กูแพ้เพราะแบบนี้จริงดิ?! | 
+104.02s | Speed | Cuz they hit me from the back! | แม่งชนท้ายกู! | 
+106.68s | Speed | Are you serious?! | เอาจริงดิ?! | 
