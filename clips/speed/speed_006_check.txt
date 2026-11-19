@@ -1,0 +1,19 @@
+EP.1 | ปล้นร้านเพชรครั้งแรก / มาหาแหวนเพชร สุดท้ายต้องจี้ร้าน
+segments(src): [(514.5, 562.0), (570.5, 598.0)]
+
+เวลา(คลิป) | ผู้พูด | ต้นฉบับ | คำแปลไทย | หมายเหตุ
+  2.36s | Speed | Search the safe for a diamond ring. | ค้นตู้เซฟ หาแหวนเพชร | Speed อ่านภารกิจ
+  4.88s | Speed | Wait chat, do I got to rob this place? | เดี๋ยวนะแชท ต้องปล้นร้านนี้เลยเหรอ | 
+ 10.14s | ในเกม | What do you need? | รับอะไรดีครับ | พนักงานร้าน
+ 11.36s | Speed | I got to rob this place, don't I? | ต้องปล้นร้านนี้ ใช่มั้ยเนี่ย | 
+ 16.32s | Speed | Right? | ใช่ปะ | 
+ 18.06s | Speed | Yeah. | เอาวะ | 
+ 19.16s | ในเกม | All right, let's empty those registers. | เอาล่ะ เทเงินในลิ้นชักมา | Jason
+ 20.92s | ในเกม | Let's go. Hurry. Hurry. | เร็วเข้า เร็ว ๆ | Jason
+ 23.18s | ในเกม | Oh no, you've got more. | ยังมีอีกใช่มั้ย | Jason
+ 25.84s | ในเกม | ...get down now. | หมอบลงไป เดี๋ยวนี้ | Jason [?] ต้นประโยคฟังไม่ชัด
+ 27.32s | ในเกม | Just keep doing what I say. | ทำตามที่บอกก็พอ | Jason
+ 29.24s | ในเกม | Knew today was gonna be like this. | รู้อยู่แล้ว วันนี้ต้องซวย | พนักงานร้าน
+ 31.20s | ในเกม | I shit the bed last night. | เมื่อคืนยัง ขี้ราดที่นอนเลย | พนักงานร้าน [มุก?]
+ 35.97s | ในเกม | It's a bad omen. | ลางไม่ดีชัด ๆ | พนักงานร้าน
+ 46.02s | Speed | There's a safe. | ตู้เซฟอยู่นี่ | 

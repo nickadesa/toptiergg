@@ -1,0 +1,33 @@
+EP.2 | ขายแหวนได้ 9,000! / แถมได้ของไขล็อกฟรี
+segments(src): [(768.5, 858.0), (881.8, 889.6)]
+
+เวลา(คลิป) | ผู้พูด | ต้นฉบับ | คำแปลไทย | หมายเหตุ
+  2.83s | ในเกม | 'Sup, man, go on in. | ไง เข้ามาเลย | คนในร้าน (ซับในเกมยืนยัน)
+ 11.74s | Speed | Wait, is this not the... | เดี๋ยว ไม่ใช่ที่นี่เหรอ | 
+ 13.92s | Speed | Am I not supposed to sell... | ไม่ได้ให้มาขายตรงนี้เหรอ | 
+ 21.08s | Speed | $9,000? | 9,000 ดอลล์? | 
+ 22.88s | Speed | No way. | ไม่จริงน่า | 
+ 23.44s | ในเกม | It's okay... it's okay. | ไม่เป็นไร ๆ | ซับในเกมยืนยัน
+ 26.02s | ในเกม | So, what can I do for you? | ว่าไง มีอะไรให้ช่วย | ซับในเกมยืนยัน
+ 28.60s | ในเกม | Here. | นี่ | Jason
+ 29.40s | Speed | No way, I just made $9,000. | ไม่จริงอ่ะ เพิ่งได้มา 9,000 | 
+ 31.72s | Speed | W's in the chat! | แชทพิมพ์ W มาเลย! | 
+ 34.52s | ในเกม | See that on the table? | เห็นของบนโต๊ะมั้ย | ซับในเกมยืนยัน
+ 36.26s | ในเกม | Snap gun. A little gift for you, | สแนปกัน ของขวัญให้นาย | 
+ 39.06s | ในเกม | very useful in your line of work. | งานสายนายได้ใช้แน่ | 
+ 41.40s | Speed | Yo! | โห! | 
+ 42.42s | ในเกม | Trust me, it's a game changer. | เชื่อเหอะ ของนี้เปลี่ยนเกมเลย | 
+ 46.36s | ในเกม | That shit is basically the key to the city. | ไอ้นี่ก็เหมือน กุญแจผีทั้งเมือง | 
+ 48.36s | ในเกม | Opens most locks like that. | ไขล็อกได้แทบหมด แค่พริบตา | 
+ 50.52s | ในเกม | And no alarm. | ไม่มีสัญญาณดังด้วย | 
+ 51.64s | ในเกม | You see what I do for you? | เห็นมั้ย ดีกับนายแค่ไหน | 
+ 53.08s | ในเกม | Now you bring me something nice as a thank you. | ทีนี้ก็หาของดี ๆ มาตอบแทนด้วย | 
+ 56.10s | ในเกม | Appreciate it, man. | ขอบใจนะ | Jason
+ 56.90s | ในเกม | No problem. | ไม่เป็นไร | 
+ 57.88s | ในเกม | Now at least you don't have to be kicking doors like an animal. | อย่างน้อยก็ไม่ต้อง ไปถีบประตูเหมือนสัตว์ป่า | 
+ 61.70s | ในเกม | See ya. | ไว้เจอกัน | 
+ 64.92s | Speed | Appreciate that, bro. | ขอบใจมากพี่ | 
+ 80.76s | Speed | Wait, he set up another jewelry (job), bro. | เดี๋ยว มีงานปล้นเพชร อีกงานด้วย | [?] whisper ได้ 'I've seen up' — แผนที่ขึ้นงาน Yasmani's Jewelry Jobs
+ 82.64s | Speed | I'm getting rich rich. | รวยเละแน่งานนี้ | 
+ 90.38s | Speed | Yo chat, he about to give me more bread. | แชท เดี๋ยวเขาจะให้ เงินเพิ่มอีก | 
+ 93.18s | Speed | Chat, we about to make our first six figures in a game. | แชท เรากำลังจะได้ หลักแสนแรกในเกมแล้ว | 
