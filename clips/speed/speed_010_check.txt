@@ -1,0 +1,26 @@
+เกือบโดนปล้นกลางถนน / พอตำรวจมาปุ๊บตีเนียนทันที
+src: 557.0s..661.0s
+
+เวลา(คลิป) | ผู้พูด | ต้นฉบับ | คำแปลไทย | หมายเหตุ
+  0.46s | ในเกม | Hey, go ahead, sure. | เอาเลย ตามสบาย | NPC ริมถนน
+  3.34s | ในเกม | You a fresh face round here. | หน้าใหม่แถวนี้เหรอ | NPC
+  6.04s | Speed | Where you from? | อยู่แถวไหนวะ | 
+  7.56s | ในเกม | I live down in the Keys. | ฉันอยู่แถว The Keys | NPC
+  9.42s | ในเกม | Until a minute ago. | จนเมื่อกี้นี่แหละ | NPC
+ 11.00s | Speed | It's a rap video, the Keys? | ทำมิวสิกวิดีโอเหรอ The Keys เนี่ย | 
+ 17.68s | Speed | Are you trying to rob me? | เฮ้ย มึงจะปล้นกูเหรอ | 
+ 18.66s | ในเกม | Put you on game. | แค่เตือนไว้ก่อน | NPC
+ 20.64s | ในเกม | This whole block active, right? | แถวนี้มันโหดนะเว้ย | [?] เสียง NPC
+ 25.88s | ในเกม | I know who they are. | ฉันรู้จักพวกมันดี | NPC
+ 27.18s | ในเกม | Look with that watch though. | ดูนาฬิกามึงสิ โคตรเด่น | NPC
+ 31.10s | ในเกม | I see you shining, big dog, bling blaow. | แสงวิบวับมาแต่ไกลเลยนะพี่ | NPC
+ 35.08s | Speed | Is he trying to rob me around here? | นี่มันจะปล้นกูจริงดิ | 
+ 39.28s | ในเกม | They'll be on your ass like stench. | พวกนั้นกัดไม่ปล่อยแน่ | NPC
+ 43.32s | ในเกม | Look like you got something worth it, they jump your ass. | ดูทรงมีของมีค่า เดี๋ยวโดนรุมแน่ | NPC
+ 60.56s | Speed | Trying to rob me, G? | จะปล้นกูเหรอวะ | 
+ 70.50s | Speed | Trying to rob me, bro! | มันจะปล้นกูอ่ะแชท! | 
+ 74.06s | Speed | The fuck! | เชี่ยไรเนี่ย! | 
+ 76.30s | Speed | Don't try to rob me! | อย่ามาปล้นกูนะเว้ย! | 
+ 86.22s | ในเกม | Get down here, cops are coming! | หมอบลงไป! ตำรวจมาแล้ว! | NPC / ตำรวจ
+ 98.42s | Speed | Why would I do that?! | ผมจะทำแบบนั้นทำไม! | 
+101.50s | Speed | Why would I do that?! | ผมไม่ได้ทำอะไรเลยนะ! | 
